@@ -1,4 +1,4 @@
-# Foss-Practicals
+#Python-code
 
 addition
 x=int(input("enter any number "))
